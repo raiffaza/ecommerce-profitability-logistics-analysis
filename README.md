@@ -16,4 +16,6 @@ An end-to-end Exploratory Data Analysis (EDA) and data quality audit of a multi-
 ## Repository Structure
 - `E-commerce.ipynb` — Full Python notebook covering schema joins, missing value forensics, cross-field validation, and EDA visualizations.
 - `E-Commerce Sales, Customer & Operations Analysis (2021-2025).pdf`
-- `'E-commerce_Dataset.csv` - The main dataset
+
+## Dataset
+- You can access it from [https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics?select=product_catalog.csv]
